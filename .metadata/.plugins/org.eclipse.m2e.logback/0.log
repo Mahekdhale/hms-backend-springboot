@@ -358,3 +358,17 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2026-04-15 22:23:47,563 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-04-15 22:23:47,568 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MAHEK\HMS_Project\ProfileMS\ProfileMS\ProfileMS\src\test\resources
 2026-04-15 22:46:36,259 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-04-16 19:22:15,970 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-04-16 19:23:17,612 [Worker-32: Launching ProfileMsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-16 19:23:17,627 [Worker-32: Launching ProfileMsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-16 19:23:17,633 [Worker-32: Launching ProfileMsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MAHEK\HMS_Project\ProfileMS\ProfileMS\ProfileMS\src\test\resources
+2026-04-16 19:23:24,247 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-16 19:23:24,289 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-16 19:23:24,296 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MAHEK\HMS_Project\Appointment\Appointment\Appointment\src\test\resources
+2026-04-16 19:23:32,865 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-16 19:23:32,886 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-16 19:23:32,890 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MAHEK\HMS_Project\GatewayMS\GatewayMS\GatewayMS\src\test\resources
+2026-04-16 19:23:34,440 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Appointment: com.hms.appointment:Appointment:0.0.1-SNAPSHOT with classifier  to /Appointment/target/classes
+2026-04-16 19:23:34,529 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-16 19:23:34,544 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-16 19:23:34,548 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MAHEK\HMS_Project\userMS\userMS\userMS\src\test\resources
